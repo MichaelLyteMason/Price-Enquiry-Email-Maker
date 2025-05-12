@@ -4,10 +4,10 @@ import csv
 import os
 import pyperclip
 
-class SteelEnquiryApp:
+class EnquiryApp:
     def __init__(self, master):
         self.master = master
-        master.title("Steel Product Enquiry Manager")
+        master.title("Enquiry Manager")
         master.geometry("800x600")
 
         # Suppliers data file
@@ -452,7 +452,7 @@ YOUR NAME''')
 
 def main():
     root = tk.Tk()
-    app = SteelEnquiryApp(root)
+    app = EnquiryApp(root)
     root.mainloop()
 
 if __name__ == "__main__":

@@ -28,3 +28,6 @@ With each email being altered for each supplier contact, then at the end giving 
 2. In the VE it will automatically create the suppliers and email template files.
 3. In the email template file you can alter the format to your liking.
 4. Now you can use the program freely.
+
+## Policy
+As AI becomes increasingly present in the world of software development, I have began using it as a tool to speed up development of my problem solving programs. This is a case of that in which LLMs were used to assist in debugging/generating boilerplate code.
